@@ -1,0 +1,8 @@
+nextgentech-site/
+│
+├── index.html       ← Home
+├── services.html    ← Services
+├── partners.html    ← Partners
+├── contact.html     ← Contact
+└── css/
+     └── style.css   ← All styling
