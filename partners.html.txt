@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Partners - NextGen Tech</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+<h1>NextGen Tech</h1>
+<p>Digital Solutions by Landon Rolnick</p>
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="partners.html">Partners</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<section>
+<h2>Partner With NextGen Tech</h2>
+<p>We collaborate with small brands and creators to provide professional digital solutions. Partnership opportunities include:</p>
+<ul>
+<li>Cross-promotion & brand collaboration</li>
+<li>Website design & development</li>
+<li>Advertising & branding support</li>
+</ul>
+<a class="btn" href="contact.html">Contact Us Today →</a>
+</section>
+
+<footer>
+NextGen Tech provides creative and digital guidance only and does not offer legal or financial advice.
+</footer>
+
+</body>
+</html>

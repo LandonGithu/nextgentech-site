@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services - NextGen Tech</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+<h1>NextGen Tech</h1>
+<p>Digital Solutions by Landon Rolnick</p>
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="partners.html">Partners</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<section>
+<h2>Our Services</h2>
+<div class="row">
+<div class="column">
+<h3>Business Setup Package — $35</h3>
+<p>Branding guidance, social media bio creation, and a concise business plan to start professionally.</p>
+</div>
+<div class="column">
+<h3>Website Development — $60</h3>
+<p>Custom, mobile-friendly websites designed using Google Sites, Wix, or Carrd.</p>
+</div>
+<div class="column">
+<h3>Advertising & Branding — $30</h3>
+<p>Professional social media and advertising guidance to increase visibility.</p>
+</div>
+<div class="column">
+<h3>Monthly Growth Support — $50/month</h3>
+<p>Ongoing content strategy, website updates, and digital guidance to grow your brand.</p>
+</div>
+</div>
+</section>
+
+<footer>
+NextGen Tech provides creative and digital guidance only and does not offer legal or financial advice.
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact - NextGen Tech</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+<h1>NextGen Tech</h1>
+<p>Digital Solutions by Landon Rolnick</p>
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="partners.html">Partners</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<section>
+<h2>Get In Touch</h2>
+<p>Email: your-email@example.com</p>
+<p>Instagram: @yourusername</p>
+<p>We respond promptly and are ready to help your brand grow.</p>
+</section>
+
+<footer>
+NextGen Tech provides creative and digital guidance only and does not offer legal or financial advice.
+</footer>
+
+</body>
+</html>
